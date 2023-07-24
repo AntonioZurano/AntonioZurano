@@ -61,6 +61,6 @@ Aquí algunos de mis proyectos destacados:
 - Correo electrónico: [info@antoniozurano.com](mailto:info@antoniozurano.com)
 - LinkedIn: [Mi Perfil en LinkedIn](https://www.linkedin.com/in/antonio-zurano-blazquez-full-stack-developer/)
 - GitHub: [Mi Perfil en GitHub](https://github.com/azuranob)
-- 
+  
 ¡Espero poder colaborar contigo pronto!
 
