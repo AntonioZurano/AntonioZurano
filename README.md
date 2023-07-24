@@ -15,22 +15,6 @@
 - Híbrido
 - En Remoto
 
-## Ubicaciones (Presenciales)
-
-- Murcia y alrededores
-- Región de Murcia, España
-- Almería y alrededores
-- España
-- Madrid, Comunidad de Madrid, España
-
-## Ubicaciones (En Remoto)
-
-- Murcia y alrededores
-- Región de Murcia, España
-- Comunidad de Madrid, España
-- Málaga, Andalucía, España
-- Barcelona, Cataluña, España
-
 ## Fecha de Inicio Julio/2023
 
 Estoy disponible de forma inmediata y actualmente buscando empleo.
