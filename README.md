@@ -1,16 +1,82 @@
-### Hi there 👋
+# Mi Portfolio - [Antonio Zurano Blázquez]
 
-<!--
-**azuranob/azuranob** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+¡Hola! 👋 Soy [Antonio Zurano Blázquez], un apasionado programador full stack con experiencia en el desarrollo web y el trabajo tanto en el back-end como en el front-end. Me encanta construir aplicaciones web y explorar nuevas tecnologías para ofrecer soluciones creativas y eficientes.
 
-Here are some ideas to get you started:
+## Cargos
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Programador Full Stack
+- Desarrollador Web
+- Desarrollador de Back-end
+- Desarrollador de Front-end
+
+## Tipos de Ubicación
+
+- Presencial
+- Híbrido
+- En Remoto
+
+## Ubicaciones (Presenciales)
+
+- Murcia y alrededores
+- Región de Murcia, España
+- Almería y alrededores
+- España
+- Madrid, Comunidad de Madrid, España
+
+## Ubicaciones (En Remoto)
+
+- Murcia y alrededores
+- Región de Murcia, España
+- Comunidad de Madrid, España
+- Málaga, Andalucía, España
+- Barcelona, Cataluña, España
+
+## Fecha de Inicio Julio/2023
+
+Estoy disponible de forma inmediata y actualmente buscando empleo.
+
+## Tipos de Empleo
+
+- Jornada Completa
+- Media Jornada
+- Contrato
+- Prácticas
+- Temporal
+
+## Tecnologías y Habilidades
+
+A lo largo de mi carrera, he trabajado con diversas tecnologías y herramientas, incluyendo:
+
+- HTML, CSS y JavaScript
+- React.js y Angular
+- Node.js y Express.js
+- MongoDB y MySQL
+- PHP
+- WordPress y Woocommerce
+- Git y control de versiones
+- Diseño responsivo y experiencia de usuario (UX)
+
+## Proyectos Destacados
+
+Aquí algunos de mis proyectos destacados:
+
+1. **E-commerce App**
+   - Descripción: Una aplicación de comercio electrónico completa que permite a los usuarios comprar productos y realizar pagos en línea.
+   - Tecnologías utilizadas: HTML, CSS, JavaScript, PHP, WordPress, Woocommerce
+   - Enlace: [E-commerce App](https://#)
+
+2. **Portfolio Website**
+   - Descripción: Mi sitio web personal que muestra mi experiencia, proyectos y habilidades (actualmente en construcción).
+   - Tecnologías utilizadas: HTML, CSS, JavaScript, PHP, WordPress.
+   - Enlace: [Mi Portfolio](https://www.antoniozurano.com)
+
+## Contacto
+
+¡Gracias por visitar mi portfolio! Si estás interesado en colaborar en proyectos emocionantes o simplemente quieres charlar, no dudes en contactarme:
+
+- Correo electrónico: [info@antoniozurano.com](mailto:info@antoniozurano.com)
+- LinkedIn: [Mi Perfil en LinkedIn](https://www.linkedin.com/in/antonio-zurano-blazquez-full-stack-developer/)
+- GitHub: [Mi Perfil en GitHub](https://github.com/azuranob))
+
+¡Espero poder colaborar contigo pronto!
+
