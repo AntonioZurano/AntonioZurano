@@ -19,14 +19,6 @@
 
 Estoy disponible de forma inmediata y actualmente buscando empleo.
 
-## Tipos de Empleo
-
-- Jornada Completa
-- Media Jornada
-- Contrato
-- Prácticas
-- Temporal
-
 ## Tecnologías y Habilidades
 
 A lo largo de mi carrera, he trabajado con diversas tecnologías y herramientas, incluyendo:
@@ -47,7 +39,7 @@ Aquí algunos de mis proyectos destacados:
 1. **E-commerce App**
    - Descripción: Una aplicación de comercio electrónico completa que permite a los usuarios comprar productos y realizar pagos en línea.
    - Tecnologías utilizadas: HTML, CSS, JavaScript, PHP, WordPress, Woocommerce
-   - Enlace: [E-commerce App](https://#)
+   - Enlace: [E-commerce App](https://www.mybabyboutique.es/)
 
 2. **Portfolio Website**
    - Descripción: Mi sitio web personal que muestra mi experiencia, proyectos y habilidades (actualmente en construcción).
