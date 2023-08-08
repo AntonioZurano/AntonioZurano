@@ -11,7 +11,6 @@
 
 ## Tipos de Ubicación
 
-- Presencial
 - Híbrido
 - En Remoto
 
