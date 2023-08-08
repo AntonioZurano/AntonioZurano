@@ -22,13 +22,13 @@ Estoy disponible de forma inmediata y actualmente buscando empleo.
 
 A lo largo de mi carrera, he trabajado con diversas tecnologías y herramientas, incluyendo:
 
-- HTML, CSS y JavaScript
+- HTML, CSS y JavaScript Vanilla
 - React.js y Angular
 - Node.js y Express.js
 - MongoDB y MySQL
 - PHP
 - WordPress y Woocommerce
-- Git y control de versiones
+- Git, Github y control de versiones
 - Diseño responsivo y experiencia de usuario (UX)
 
 ## Proyectos Destacados
