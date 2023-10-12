@@ -8,6 +8,7 @@
 - Desarrollador Web
 - Desarrollador de Back-end
 - Desarrollador de Front-end
+- Desarrollador WordPress
 
 ## Tipos de Ubicación
 
@@ -30,6 +31,7 @@ A lo largo de mi carrera, he trabajado con diversas tecnologías y herramientas,
 - WordPress y Woocommerce
 - Git, Github y control de versiones
 - Diseño responsivo y experiencia de usuario (UX)
+- Administrar servidores web
 
 ## Proyectos Destacados
 
@@ -44,6 +46,13 @@ Aquí algunos de mis proyectos destacados:
    - Descripción: Mi sitio web personal que muestra mi experiencia, proyectos y habilidades (actualmente en construcción).
    - Tecnologías utilizadas: HTML, CSS, JavaScript, PHP, WordPress.
    - Enlace: [Mi Portfolio](https://www.antoniozurano.com)
+3. **Página Website**
+   - Descripción: Esta página web está dedicada a informar y concienciar sobre la importancia de la seguridad contra incendios.
+   -  Como desarrollador web de WordPress, he creado esta plataforma para resaltar la amplia gama de productos y soluciones disponibles
+   -   para prevenir y combatir incendios..
+   - Tecnologías utilizadas: HTML, CSS, JavaScript, PHP, WordPress.
+   - Enlace: [GarbiContraincendios](https://www.garbicontraincendios.es)
+   
 
 ## Contacto
 
