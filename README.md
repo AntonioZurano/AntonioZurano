@@ -24,12 +24,15 @@ Estoy disponible de forma inmediata y actualmente buscando empleo.
 A lo largo de mi carrera, he trabajado con diversas tecnologías y herramientas, incluyendo:
 
 - HTML, CSS y JavaScript Vanilla
+- Python / Django
 - React.js y Angular
 - Node.js y Express.js
 - MongoDB y MySQL
 - PHP
 - WordPress y Woocommerce
 - Git, Github y control de versiones
+- Testing.
+- Metodologías Agile.
 - Diseño responsivo y experiencia de usuario (UX)
 - Administrar servidores web
 
@@ -46,14 +49,14 @@ Aquí algunos de mis proyectos destacados:
    - Descripción: Mi sitio web personal que muestra mi experiencia, proyectos y habilidades (actualmente en construcción).
    - Tecnologías utilizadas: HTML, CSS, JavaScript, PHP, WordPress.
    - Enlace: [Mi Portfolio](https://www.antoniozurano.com)
-3. **Página Website**
+     
+3. **Página Website Empresa**
    - Descripción: Esta página web está dedicada a informar y concienciar sobre la importancia de la seguridad contra incendios.
    -  Como desarrollador web de WordPress, he creado esta plataforma para resaltar la amplia gama de productos y soluciones disponibles
    -   para prevenir y combatir incendios..
    - Tecnologías utilizadas: HTML, CSS, JavaScript, PHP, WordPress.
    - Enlace: [GarbiContraincendios](https://www.garbicontraincendios.es)
    
-
 ## Contacto
 
 ¡Gracias por visitar mi portfolio! Si estás interesado en colaborar en proyectos emocionantes o simplemente quieres charlar, no dudes en contactarme:
