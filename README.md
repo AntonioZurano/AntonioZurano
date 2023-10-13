@@ -62,8 +62,8 @@ Aquí algunos de mis proyectos destacados:
 ¡Gracias por visitar mi portfolio! Si estás interesado en colaborar en proyectos emocionantes o simplemente quieres charlar, no dudes en contactarme:
 
 - Correo electrónico: [info@antoniozurano.com](mailto:info@antoniozurano.com)
-- LinkedIn: [Mi Perfil en LinkedIn](https://www.linkedin.com/in/antonio-zurano-blazquez-full-stack-developer/)
-- GitHub: [Mi Perfil en GitHub](https://github.com/azuranob)
+- LinkedIn: [Mi Perfil en LinkedIn](https://www.linkedin.com/in/antoniozurano/)
+- GitHub: [Mi Perfil en GitHub](https://github.com/AntonioZurano)
   
 ¡Espero poder colaborar contigo pronto!
 
