@@ -52,9 +52,9 @@ Aquí algunos de mis proyectos destacados:
      
 3. **Página Website Empresa**
    - Descripción: Esta página web está dedicada a informar y concienciar sobre la importancia de la seguridad contra incendios.
-   -  Como desarrollador web de WordPress, he creado esta plataforma para resaltar la amplia gama de productos y soluciones disponibles
-   -   para prevenir y combatir incendios..
-   - Tecnologías utilizadas: HTML, CSS, JavaScript, PHP, WordPress.
+   -  Como desarrollador web de WordPress, he creado esta plataforma para resaltar la amplia gama de productos
+        y soluciones disponibles para prevenir y combatir incendios..
+   - Tecnologías utilizadas: HTML, CSS, JavaScript, PHP, CRM WordPress.
    - Enlace: [GarbiContraincendios](https://www.garbicontraincendios.es)
    
 ## Contacto
