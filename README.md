@@ -34,7 +34,7 @@ A lo largo de mi carrera, he trabajado con diversas tecnologías y herramientas,
 - Testing.
 - Metodologías Agile.
 - Diseño responsivo y experiencia de usuario (UX)
-- Administrar servidores web
+- Administración avanzada de servidores web (VPS).
 
 ## Proyectos Destacados
 
