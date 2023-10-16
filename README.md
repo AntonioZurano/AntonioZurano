@@ -2,7 +2,7 @@
 
 ¡Hola! 👋 Soy Antonio Zurano Blázquez un apasionado programador full stack con experiencia en el desarrollo web y el trabajo tanto en el back-end como en el front-end. Me encanta construir aplicaciones web y explorar nuevas tecnologías para ofrecer soluciones creativas y eficientes.
 
-## Cargos
+## Especialidades preferidas
 
 - Programador Full Stack
 - Desarrollador Web
@@ -10,14 +10,13 @@
 - Desarrollador de Front-end
 - Desarrollador WordPress
 
-## Tipos de Ubicación
+## Tipos de trabajos
 
-- Híbrido
-- En Remoto
+Preferibles trabajos por cuenta ajena o Freelance Híbridos o en Remoto.
 
-## Fecha de Inicio Julio/2023
+## Fecha de Inicio Julio/2022
 
-Estoy disponible de forma inmediata y actualmente buscando empleo.
+Estoy disponible de forma inmediata y actualmente buscando empleo o trabajos Freelance.
 
 ## Tecnologías y Habilidades
 
