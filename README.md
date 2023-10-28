@@ -1,3 +1,6 @@
+[![](https://visitcount.itsvg.in/api?id=AntonioZurano&label=Profile%20Views&icon=1&pretty=false)](https://visitcount.itsvg.in)
+
+
 # Mi Portfolio - Antonio Zurano Blázquez
 
 ¡Hola! 👋 Soy Antonio Zurano Blázquez un apasionado programador full stack con experiencia en el desarrollo web y el trabajo tanto en el back-end como en el front-end. Me encanta construir aplicaciones web y explorar nuevas tecnologías para ofrecer soluciones creativas y eficientes.
