@@ -23,7 +23,6 @@ Preferibles trabajos por cuenta ajena o Freelance Híbridos o en Remoto.
 Estoy disponible de forma inmediata y actualmente buscando empleo o trabajos Freelance.
 
 ## Tecnologías y Habilidades
-
 A lo largo de mi carrera, he trabajado con diversas tecnologías y herramientas, incluyendo:
 
 - HTML, CSS y JavaScript
