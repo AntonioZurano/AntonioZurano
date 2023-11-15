@@ -1,9 +1,10 @@
-[![](https://visitcount.itsvg.in/api?id=AntonioZurano&label=Profile%20Views&icon=1&pretty=false)](https://visitcount.itsvg.in)
-
-
 # Mi Portfolio - Antonio Zurano Blázquez
 
-¡Hola! 👋 Soy Antonio Zurano Blázquez un apasionado programador full stack con experiencia en el desarrollo web y el trabajo tanto en el back-end como en el front-end. Me encanta construir aplicaciones web y explorar nuevas tecnologías para ofrecer soluciones creativas y eficientes.
+¡Hola! 👋 Soy Antonio Zurano Blázquez un apasionado programador full stack con experiencia en el desarrollo web y el trabajo tanto en el back-end como en el front-end. Me encanta construir aplicaciones web y explorar nuevas tecnologías para ofrecer soluciones creativas y eficientes. En este momento estoy estudiando Python desde cero, y en proyecto estudiar otras tecnologías. También estoy colaborando en un proyecto de Blockchain (Criptomonedas).
+
+# Contador de visitas
+
+[![](https://visitcount.itsvg.in/api?id=AntonioZurano&label=Profile%20Views&icon=1&pretty=false)](https://visitcount.itsvg.in)
 
 ## Especialidades preferidas
 
@@ -17,7 +18,7 @@
 
 Preferibles trabajos por cuenta ajena o Freelance Híbridos o en Remoto.
 
-## Fecha de Inicio Julio/2022
+## Preparándome desde Julio/2021
 
 Estoy disponible de forma inmediata y actualmente buscando empleo o trabajos Freelance.
 
@@ -25,7 +26,7 @@ Estoy disponible de forma inmediata y actualmente buscando empleo o trabajos Fre
 
 A lo largo de mi carrera, he trabajado con diversas tecnologías y herramientas, incluyendo:
 
-- HTML, CSS y JavaScript Vanilla
+- HTML, CSS y JavaScript
 - Python / Django
 - React.js y Angular
 - Node.js y Express.js
@@ -36,7 +37,7 @@ A lo largo de mi carrera, he trabajado con diversas tecnologías y herramientas,
 - Testing.
 - Metodologías Agile.
 - Diseño responsivo y experiencia de usuario (UX)
-- Administración avanzada de servidores web (VPS).
+- Administración avanzada de servidores web (Linux/windows).
 
 ## Proyectos Destacados
 
@@ -63,6 +64,7 @@ Aquí algunos de mis proyectos destacados:
    - Descripción: Esta página web es una plataforma dedicada a exhibir una impresionante colección de trofeos y medallas. A través de una cuidadosa selección y presentación,         este sitio ofrece una experiencia visualmente atractiva que resalta los logros y reconocimientos en diversas disciplinas y eventos. Los visitantes pueden registrarse          de manera sencilla para acceder a la función de descarga de catálogos en formato PDF.
    - Tecnologías utilizadas: HTML, CSS, JavaScript, PHP, WordPress.
    - Enlace: [Trofeos Zurano](https://www.trofeoszurano.com)
+     
 ## Contacto
 
 ¡Gracias por visitar mi portfolio! Si estás interesado en colaborar en proyectos emocionantes o simplemente quieres charlar, no dudes en contactarme:
