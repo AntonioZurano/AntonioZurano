@@ -66,7 +66,7 @@ Aquí algunos de mis proyectos destacados:
 
 - Correo electrónico: [info@antoniozurano.com](mailto:info@antoniozurano.com)
 - LinkedIn: [Mi Perfil en LinkedIn](https://www.linkedin.com/in/antoniozurano/)
-- GitHub: [Mi Portfolio](https://dev.antoniozurano.com)
+- Portfolio: [Mi Portfolio](https://dev.antoniozurano.com)
   
 ¡Espero poder colaborar contigo pronto!
 
