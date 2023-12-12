@@ -8,7 +8,7 @@
 - Desarrollador Web
 - Desarrollador de Back-end
 - Desarrollador de Front-end
-- Desarrollador WordPress
+- Desarrollador WordPress y Woocommerce
 
 ## Tipos de trabajos
 
