@@ -48,9 +48,9 @@ A lo largo de mi carrera, he trabajado con diversas tecnologías y herramientas,
       
  ## Bases de Datos  
  <p>      
-     <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="BBDD MYSQL" width=50px>
-     <img src="https://img.shields.io/badge/GraphQl-E10098?style=for-the-badge&logo=graphql&logoColor=white" alt="GraphQL" width=50px>
-     <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MONGODB" width=50px>
+     <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="BBDD MYSQL" width=60px height=18px>
+     <img src="https://img.shields.io/badge/GraphQl-E10098?style=for-the-badge&logo=graphql&logoColor=white" alt="GraphQL" width=60px height=18px>
+     <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MONGODB" width=60px height=18px>
  </p> 
       
  ## Diseño y Metodologías Agile    
@@ -62,7 +62,7 @@ A lo largo de mi carrera, he trabajado con diversas tecnologías y herramientas,
       
  ## CRM
  <p>      
-    <img src="https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" alt="WORDPRESS" width=100px>
+    <img src="https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" alt="WORDPRESS" width=60px height=18px>
  </p>
 
 ## Proyectos Destacados
