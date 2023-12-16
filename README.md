@@ -30,7 +30,6 @@ A lo largo de mi carrera, he trabajado con diversas tecnologías y herramientas,
       <img src="https://img.shields.io/badge/Express%20js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express JS" width=60px height=18px>
       <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" alt="Python" width=60px height=18px>
       <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green" alt="Framework DJANGO" width=60px height=18px>
-      <img src="https://img.shields.io/badge/Express%20js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express JS" width=60px height=18px>
    </p>
       
  ## Tecnologías    
