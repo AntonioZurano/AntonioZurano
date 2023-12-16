@@ -88,12 +88,7 @@ Aquí algunos de mis proyectos destacados:
    - Descripción: Esta página web es una plataforma dedicada a exhibir una impresionante colección de trofeos y medallas. A través de una cuidadosa selección y presentación,         este sitio ofrece una experiencia visualmente atractiva que resalta los logros y reconocimientos en diversas disciplinas y eventos. Los visitantes pueden registrarse          de manera sencilla para acceder a la función de descarga de catálogos en formato PDF.
    - Tecnologías utilizadas: HTML, CSS, JavaScript, PHP, WordPress.
    - Enlace: [Trofeos Zurano](https://www.trofeoszurano.com)
-  
-5. **Página Website Empresa/Autónomo**
-   - Descripción: Página web sencilla a modo de presentación.
-   - Tecnologías: Wordpress, PHP, Javascript, CSS
-   - Enlace: (en proceso de creación)
-   -    
+     
 ## Contacto
 
 ¡Gracias por visitar mi portfolio! Si estás interesado en colaborar en proyectos emocionantes o simplemente quieres charlar, no dudes en contactarme:
