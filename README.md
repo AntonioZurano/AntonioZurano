@@ -20,7 +20,9 @@ Estoy disponible de forma inmediata y actualmente buscando empleo o trabajos Fre
 
 ## Tecnologías y Habilidades
 A lo largo de mi carrera, he trabajado con diversas tecnologías y herramientas, incluyendo:
-
+<p>   <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/languages/html.svg" alt="HTML5" width=50px>
+      <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/languages/css3.svg" alt="CSS" width=50px>
+</p>
 - HTML, CSS y JavaScript
 - Python / Django
 - React.js y Angular
@@ -42,15 +44,12 @@ Aquí algunos de mis proyectos destacados:
    - Descripción: Una aplicación de comercio electrónico completa que permite a los usuarios comprar productos y realizar pagos en línea. Mi Baby Boutique es una tienda en          línea que ofrece una amplia gama de productos para bebés y niños, proporcionando a los padres una plataforma conveniente para adquirir productos de alta calidad. Desde        ropa y accesorios hasta juguetes y productos para el cuidado del bebé, la aplicación ofrece una experiencia de compra intuitiva y segura. Los usuarios pueden explorar,        seleccionar productos y realizar pagos de manera rápida y sencilla, garantizando una experiencia de compra satisfactoria.
    - Tecnologías utilizadas: HTML, CSS, JavaScript, PHP, WordPress, Woocommerce
    - Enlace: [E-commerce App My Baby Boutique](https://www.mybabyboutique.es/)
-<p>   <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/languages/html.svg" alt="HTML5" width=50px>
-      <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/languages/css3.svg" alt="CSS" width=50px>
-</p>
 
 2. **Portfolio Website**
    - Descripción: Mi sitio web personal que muestra mi experiencia, proyectos y habilidades.
    - Tecnologías utilizadas: HTML, CSS, JavaScript.
    - Enlace: [Mi Portfolio](https://dev.antoniozurano.com)
-     
+ 
 3. **Página Website Empresa**
    - Descripción: Esta página web está dedicada a informar y concienciar sobre la importancia de la seguridad contra incendios.Como desarrollador
         web de WordPress, he creado esta plataforma para resaltar la amplia gama de productos
@@ -62,10 +61,12 @@ Aquí algunos de mis proyectos destacados:
    - Descripción: Esta página web es una plataforma dedicada a exhibir una impresionante colección de trofeos y medallas. A través de una cuidadosa selección y presentación,         este sitio ofrece una experiencia visualmente atractiva que resalta los logros y reconocimientos en diversas disciplinas y eventos. Los visitantes pueden registrarse          de manera sencilla para acceder a la función de descarga de catálogos en formato PDF.
    - Tecnologías utilizadas: HTML, CSS, JavaScript, PHP, WordPress.
    - Enlace: [Trofeos Zurano](https://www.trofeoszurano.com)
+  
 5. **Página Website Empresa/Autónomo**
    - Descripción: Página web sencilla a modo de presentación.
    - Tecnologías: Wordpress, PHP, Javascript, CSS
-   - Enlace: (en proceso de creación)     
+   - Enlace: (en proceso de creación)
+   -    
 ## Contacto
 
 ¡Gracias por visitar mi portfolio! Si estás interesado en colaborar en proyectos emocionantes o simplemente quieres charlar, no dudes en contactarme:
