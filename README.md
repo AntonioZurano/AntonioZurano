@@ -6,19 +6,18 @@
 
 - Programador Full Stack
 - Desarrollador Web
-- Desarrollador de Back-end
-- Desarrollador de Front-end
 - Desarrollador WordPress y Woocommerce
 
 ## Tipos de trabajos
 
-Preferibles trabajos por cuenta ajena o Freelance Híbridos o en Remoto.
+Preferibles trabajos por cuenta ajena Híbridos o en Remoto.
 
 ## Preparándome desde Julio/2021
 
 Estoy disponible de forma inmediata y actualmente buscando empleo o trabajos Freelance.
 
 ## Tecnologías y Habilidades
+
 A lo largo de mi carrera, he trabajado con diversas tecnologías y herramientas, incluyendo:
 
  ## Lenguajes
@@ -59,7 +58,7 @@ A lo largo de mi carrera, he trabajado con diversas tecnologías y herramientas,
    <img src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white" alt="TRELLO" width=60px height=18px>
  </p>
       
- ## CRM
+ ## CMS
  <p>      
     <img src="https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" alt="WORDPRESS" width=60px height=18px>
  </p>
