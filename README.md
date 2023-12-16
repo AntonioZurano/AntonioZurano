@@ -57,7 +57,7 @@ A lo largo de mi carrera, he trabajado con diversas tecnologías y herramientas,
  <p>
    <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="FIGMA" width=60px >
    <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" alt="NOTION" width=60px>
-   <img src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white" alt="TRELLO" width=60px height=80px>
+   <img src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white" alt="TRELLO" width=45px height=45px>
  </p>
       
  ## CRM
