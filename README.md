@@ -42,8 +42,8 @@ Aquí algunos de mis proyectos destacados:
    - Descripción: Una aplicación de comercio electrónico completa que permite a los usuarios comprar productos y realizar pagos en línea. Mi Baby Boutique es una tienda en          línea que ofrece una amplia gama de productos para bebés y niños, proporcionando a los padres una plataforma conveniente para adquirir productos de alta calidad. Desde        ropa y accesorios hasta juguetes y productos para el cuidado del bebé, la aplicación ofrece una experiencia de compra intuitiva y segura. Los usuarios pueden explorar,        seleccionar productos y realizar pagos de manera rápida y sencilla, garantizando una experiencia de compra satisfactoria.
    - Tecnologías utilizadas: HTML, CSS, JavaScript, PHP, WordPress, Woocommerce
    - Enlace: [E-commerce App My Baby Boutique](https://www.mybabyboutique.es/)
-<p>   <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/languages/html.svg" alt="HTML5">
-      <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/languages/css3.svg" alt="CSS">
+<p>   <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/languages/html.svg" alt="HTML5" width=50px>
+      <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/languages/css3.svg" alt="CSS" width=50px>
 </p>
 
 2. **Portfolio Website**
