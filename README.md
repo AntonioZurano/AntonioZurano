@@ -62,7 +62,7 @@ A lo largo de mi carrera, he trabajado con diversas tecnologías y herramientas,
       
  ## CRM
  <p>      
-    <img src="https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" alt="WORDPRESS" width=50px>
+    <img src="https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" alt="WORDPRESS" width=100px>
  </p>
 
 ## Proyectos Destacados
