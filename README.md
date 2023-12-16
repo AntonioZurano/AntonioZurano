@@ -96,8 +96,7 @@ Aquí algunos de mis proyectos destacados:
 - Correo electrónico: [info@antoniozurano.com](mailto:info@antoniozurano.com)
   <br>
 - <a href="https://www.linkedin.com/in/antoniozurano/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin" width=60 height=18>  </a>
-<br>
-- <a href="https://www.antoniozurano.com"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Web Portfolio Personal" width=60 height=18>  </a>
+- <a href="https://www.antoniozurano.com"><img src="https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white" alt="Web Portfolio Personal" width=60 height=18>  </a>
 <br>
 
 ¡Espero poder colaborar contigo pronto!
