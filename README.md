@@ -20,9 +20,7 @@ Estoy disponible de forma inmediata y actualmente buscando empleo o trabajos Fre
 
 ## Tecnologías y Habilidades
 A lo largo de mi carrera, he trabajado con diversas tecnologías y herramientas, incluyendo:
-<p>   <img src="[https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/languages/html.svg](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)" alt="HTML5" width=50px>
-      <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/languages/css3.svg" alt="CSS" width=50px>
-</p>" alt="HTML5" width=50px>
+<p>   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" width=50px>
       <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/languages/css3.svg" alt="CSS" width=50px>
 </p>
 - HTML, CSS y JavaScript
