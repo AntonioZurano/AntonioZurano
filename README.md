@@ -23,6 +23,7 @@ A lo largo de mi carrera, he trabajado con diversas tecnologías y herramientas,
  ## Lenguajes
    <p> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" width=60px height=18px>
       <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS" width=60px height=18px>
+      <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt= "PHP" width=60px height=18px> 
       <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JAVASCRIPT" width=60px height=18px>
       <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAF" alt="REACTjs" width=60px height=18px>
       <img src="https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="NODEjs" width=60px height=18px>
@@ -65,9 +66,10 @@ A lo largo de mi carrera, he trabajado con diversas tecnologías y herramientas,
 
 ## Proyectos Destacados
 
-Aquí algunos de mis proyectos destacados:
+Aquí están algunos de mis proyectos destacados:
 
 1. **E-commerce App**
+
    - Descripción: Una aplicación de comercio electrónico completa que permite a los usuarios comprar productos y realizar pagos en línea. Mi Baby Boutique es una tienda en          línea que ofrece una amplia gama de productos para bebés y niños, proporcionando a los padres una plataforma conveniente para adquirir productos de alta calidad.             Desde ropa y accesorios hasta juguetes y productos para el cuidado del bebé, la aplicación ofrece una experiencia de compra intuitiva y segura. Los usuarios pueden           explorar, seleccionar productos y realizar pagos de manera rápida y sencilla, garantizando una experiencia de compra satisfactoria.
    - Tecnologías utilizadas: HTML, CSS, JavaScript, PHP, WordPress, Woocommerce
    - Enlace: [E-commerce App My Baby Boutique](https://www.mybabyboutique.es/)
