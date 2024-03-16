@@ -75,8 +75,9 @@ Aquí están algunos de mis proyectos destacados:
    - Enlace: [E-commerce App My Baby Boutique](https://www.mybabyboutique.es/)
 
 2. **Portfolio Website**
-   - Descripción: Mi sitio web personal que muestra mi experiencia, proyectos y habilidades.
-   - Tecnologías utilizadas: HTML, CSS, JavaScript.
+   - Descripción: Presento mi portfolio profesional como desarrollador web, mostrando mi experiencia y habilidades a través de diversos proyectos realizados. La página web ha sido diseñada y desarrollada desde cero utilizando HTML, CSS y JavaScript, y se encuentra alojada en mi propio servidor VPS.
+   - Tecnologías utilizadas: HTML, CSS, JavaScript, Github/Git, VPS.
+   - Características: Diseño web responsive adaptable a diferentes dispositivos. Interfaz intuitiva y fácil de navegar. Presentación de proyectos con imágenes, descripciones y enlaces. Página de "Sobre mí" con mi biografía y experiencia profesional. Formulario de contacto para potenciales clientes. Integración con Github/Git para mostrar mi código fuente.
    - Enlace: [Mi Portfolio](https://dev.antoniozurano.com)
  
 3. **Página Website Empresa**
@@ -90,6 +91,12 @@ Aquí están algunos de mis proyectos destacados:
    - Descripción: Esta página web es una plataforma dedicada a exhibir una impresionante colección de trofeos y medallas. A través de una cuidadosa selección y presentación,         este sitio ofrece una experiencia visualmente atractiva que resalta los logros y reconocimientos en diversas disciplinas y eventos. Los visitantes pueden registrarse          de manera sencilla para acceder a la función de descarga de catálogos en formato PDF.
    - Tecnologías utilizadas: HTML, CSS, JavaScript, PHP, WordPress.
    - Enlace: [Trofeos Zurano](https://www.trofeoszurano.com)
+
+5. **Página Website Particular**
+   - Descripción: Esta página web, diseñada y desarrollada por mí desde cero, presenta la experiencia y servicios de un psicólogo. Implementada en WordPress, ofrece una experiencia de usuario fluida y atractiva, con un diseño profesional y una estructura clara y organizada.
+   - Tecnologías utilizadas: WordPress, HTML, CSS, JavaScript, PHP,plugins de WordPress.
+   - Beneficios: Mayor visibilidad online del psicólogo. Crecimiento de la base de clientes. Mejora de la imagen profesional. Facilidad de contacto para los clientes potenciales. Posicionamiento SEO estratégico.
+   - Enlace: [Esther Moreno Muñoz Psicóloga](https://www.esthermorenopsicologia.com)
      
 ## Contacto
 
