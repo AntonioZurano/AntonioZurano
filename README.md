@@ -12,7 +12,7 @@
 
 Preferibles trabajos por cuenta ajena Híbridos o en Remoto.
 
-## Preparándome desde Julio/2021
+## Continúo preparándome
 
 Estoy disponible de forma inmediata y actualmente buscando empleo o trabajos Freelance.
 
@@ -68,34 +68,28 @@ A lo largo de mi carrera, he trabajado con diversas tecnologías y herramientas,
 
 Aquí están algunos de mis proyectos destacados:
 
-1. **E-commerce App**
-
-   - Descripción: Una aplicación de comercio electrónico completa que permite a los usuarios comprar productos y realizar pagos en línea. Mi Baby Boutique es una tienda en          línea que ofrece una amplia gama de productos para bebés y niños, proporcionando a los padres una plataforma conveniente para adquirir productos de alta calidad.             Desde ropa y accesorios hasta juguetes y productos para el cuidado del bebé, la aplicación ofrece una experiencia de compra intuitiva y segura. Los usuarios pueden           explorar, seleccionar productos y realizar pagos de manera rápida y sencilla, garantizando una experiencia de compra satisfactoria.
-   - Tecnologías utilizadas: HTML, CSS, JavaScript, PHP, WordPress, Woocommerce
-   - Enlace: [E-commerce App My Baby Boutique](https://www.mybabyboutique.es/)
-
-2. **Portfolio Website**
+1. **Portfolio Website**
    - Descripción: Presento mi portfolio profesional como desarrollador web, mostrando mi experiencia y habilidades a través de diversos proyectos realizados. La página web ha sido diseñada y desarrollada desde cero utilizando HTML, CSS y JavaScript, y se encuentra alojada en mi propio servidor VPS.
    - Tecnologías utilizadas: HTML, CSS, JavaScript, Github/Git, VPS.
    - Características: Diseño web responsive adaptable a diferentes dispositivos. Interfaz intuitiva y fácil de navegar. Presentación de proyectos con imágenes, descripciones y enlaces. Página de "Sobre mí" con mi biografía y experiencia profesional. Formulario de contacto para potenciales clientes. Integración con Github/Git para mostrar mi código fuente.
    - Enlace: [Mi Portfolio](https://dev.antoniozurano.com)
  
-3. **Página Website Empresa**
+2. **Página Website Empresa**
    - Descripción: Esta página web está dedicada a informar y concienciar sobre la importancia de la seguridad contra incendios.Como desarrollador
         web de WordPress, he creado esta plataforma para resaltar la amplia gama de productos
         y soluciones disponibles para prevenir y combatir incendios..
    - Tecnologías utilizadas: HTML, CSS, JavaScript, PHP, WordPress.
    - Enlace: [Garbi Contraincendios](https://www.garbicontraincendios.es)
 
-4. **Página Website Empresa**
+3. **Página Website Empresa**
    - Descripción: Esta página web es una plataforma dedicada a exhibir una impresionante colección de trofeos y medallas. A través de una cuidadosa selección y presentación,         este sitio ofrece una experiencia visualmente atractiva que resalta los logros y reconocimientos en diversas disciplinas y eventos. Los visitantes pueden registrarse          de manera sencilla para acceder a la función de descarga de catálogos en formato PDF.
    - Tecnologías utilizadas: HTML, CSS, JavaScript, PHP, WordPress.
    - Enlace: [Trofeos Zurano](https://www.trofeoszurano.com)
 
-5. **Página Website Particular**
+4. **Página Website Particular**
    - Descripción: Esta página web, diseñada y desarrollada por mí desde cero, presenta la experiencia y servicios de un psicólogo. Implementada en WordPress, ofrece una experiencia de usuario fluida y atractiva, con un diseño profesional y una estructura clara y organizada.
-   - Tecnologías utilizadas: WordPress, HTML, CSS, JavaScript, PHP,plugins de WordPress.
-   - Beneficios: Mayor visibilidad online del psicólogo. Crecimiento de la base de clientes. Mejora de la imagen profesional. Facilidad de contacto para los clientes potenciales. Posicionamiento SEO estratégico.
+   - Tecnologías utilizadas: WordPress, HTML, CSS, JavaScript, PHP, plugins de WordPress.
+   - Beneficios: Mayor visibilidad online del psicólogo. Crecimiento de la base de clientes. Mejora de la imagen profesional. Facilidad de contacto para los clientes potenciales. Posicionamiento SEO estratégico. Conexión con web externa para conseguir Citas Online con el cliente.
    - Enlace: [Esther Moreno Muñoz Psicóloga](https://www.esthermorenopsicologia.com)
      
 ## Contacto
