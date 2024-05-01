@@ -12,7 +12,7 @@
 
 Preferibles trabajos por cuenta ajena Híbridos o en Remoto.
 
-## Continúo preparándome
+## Sigo estudiando y preparándome para trabajar en una empresa de Desarrollo Web
 
 Estoy disponible de forma inmediata y actualmente buscando empleo o trabajos Freelance.
 
