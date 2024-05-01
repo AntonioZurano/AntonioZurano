@@ -1,6 +1,6 @@
 # Mi Portfolio - Antonio Zurano Blázquez
 
-¡Hola! 👋 Soy Antonio Zurano Blázquez un apasionado programador full stack con experiencia en el desarrollo web y el trabajo tanto en el back-end como en el front-end. Me encanta construir aplicaciones web y explorar nuevas tecnologías para ofrecer soluciones creativas y eficientes. En este momento estoy estudiando Python desde cero, y en proyecto estudiar otras tecnologías. También estoy colaborando en un proyecto de Blockchain (Criptomonedas).
+¡Hola! 👋 Soy Antonio Zurano Blázquez un apasionado programador full stack con experiencia en el desarrollo web y el trabajo tanto en el back-end como en el front-end. Me encanta construir aplicaciones web y explorar nuevas tecnologías para ofrecer soluciones creativas y eficientes. En este momento estoy estudiando Python, y llevo 3 meses estudiando el Master en Full Stack y Blockchain de Conquerblocks.
 
 ## Especialidades preferidas
 
