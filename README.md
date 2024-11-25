@@ -8,10 +8,6 @@
 - Desarrollador Web
 - Desarrollador WordPress
 
-## Tipos de trabajos
-
-Preferibles trabajos por cuenta ajena Híbridos o en Remoto.
-
 ## Sigo estudiando y preparándome para trabajar en Desarrollo Web
 
 Contacta conmigo si quieres que colabore en algún proyecto.
