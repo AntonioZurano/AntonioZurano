@@ -64,7 +64,7 @@ A lo largo de mi carrera, he trabajado con diversas tecnologías y herramientas,
     <img src="https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" alt="WORDPRESS" width=60px height=18px>
  </p>
  
-## Estadisticas
+## Estadísticas
 ![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=AntonioZurano&show_icons=true&theme=transparent)
 
 ![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=AntonioZurano&layout=compact&theme=transparent)
