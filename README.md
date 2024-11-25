@@ -63,6 +63,9 @@ A lo largo de mi carrera, he trabajado con diversas tecnologías y herramientas,
  <p>      
     <img src="https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" alt="WORDPRESS" width=60px height=18px>
  </p>
+ 
+## Estadisticas
+![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=AntonioZurano&show_icons=true&theme=radical)
 
 ## Proyectos Destacados
 Aquí están algunos de mis proyectos destacados:
