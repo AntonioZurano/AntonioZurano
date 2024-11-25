@@ -67,6 +67,9 @@ A lo largo de mi carrera, he trabajado con diversas tecnologías y herramientas,
 ## Estadisticas
 ![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=AntonioZurano&show_icons=true&theme=transparent)
 
+![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=AntonioZurano&layout=compact&theme=transparent)
+
+
 ## Proyectos Destacados
 Aquí están algunos de mis proyectos destacados:
 
