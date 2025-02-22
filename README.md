@@ -1,14 +1,32 @@
-# Mi Portfolio - Antonio Zurano Blázquez
+# ¡Hola! 👋 Soy Antonio Zurano Blázquez  
 
-¡Hola! 👋 Soy Antonio Zurano Blázquez un apasionado programador full stack con experiencia en el desarrollo web y el trabajo tanto en el back-end como en el front-end. Me encanta construir aplicaciones web y explorar nuevas tecnologías para ofrecer soluciones creativas y eficientes. En este momento sigo formándome en Python y Django, y llevo varios meses preparándome con el [Master en Desarrollo Web Full Stack y Blockchain](https://www.conquerblocks.com/master-desarrollo-web-full-stack).
+Soy un **desarrollador backend** con experiencia en **Node.js, TypeScript y bases de datos SQL/NoSQL**, apasionado por la construcción de aplicaciones web escalables y optimizadas. Me interesa la arquitectura de software, el desarrollo backend eficiente y la implementación de soluciones con **Docker y Kubernetes**.  
+
+Actualmente, sigo perfeccionando mis habilidades en **Python y Django**, mientras continúo con mi formación en el **[Master en Desarrollo Web Full Stack y Blockchain](https://www.conquerblocks.com/master-desarrollo-web-full-stack).**.  
+
+## 🚀 Tecnologías y herramientas  
+
+- **Lenguajes y Frameworks:** `Node.js`, `TypeScript`, `Python`, `Django`  
+- **Bases de Datos:** `PostgreSQL`, `MariaDB`, `MongoDB`, `ElasticSearch`  
+- **DevOps:** `Docker`, `Kubernetes`, `CI/CD` (`GitHub Actions`, `Jenkins`)  
+- **Otros:** `Linux`, `Git`, `Plesk`, `Selenium`  
+
+💡 Me motiva la resolución de problemas y el aprendizaje continuo, siempre buscando mejorar el rendimiento y la escalabilidad de los sistemas en los que trabajo.  
+
+📌 **Estoy abierto a nuevas oportunidades y colaboraciones.**  
+Si quieres hablar sobre tecnología o explorar nuevos proyectos, ¡conectemos!  
+
+---
 
 ## Especialidades preferidas
 
 - Programador Full Stack
+- Programador Backend
+- Programador Frontend
 - Desarrollador Web
 - Desarrollador WordPress
 
-## Sigo estudiando y preparándome para trabajar en Desarrollo Web
+## Sigo estudiando y preparándome para trabajar en Desarrollo Web tanto en Backend como Frontend
 
 Contacta conmigo si quieres que colabore en algún proyecto.
 
