@@ -26,9 +26,6 @@ Me apasiona la creación de aplicaciones web **escalables**, optimizadas y fáci
 Siempre estoy aprendiendo nuevas tecnologías y metodologías para mejorar mis proyectos y brindar la mejor experiencia de usuario.
 
 ¡Conectemos y sigamos creando juntos! 🚀
-```
-
-Este texto está adaptado para resaltar tu experiencia como **Full Stack Developer**, destacando las tecnologías que manejas y tu enfoque en la creación de aplicaciones web tanto en el **frontend** como en el **backend**. 
 
 ---
 
