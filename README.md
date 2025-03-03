@@ -1,6 +1,3 @@
-Aquí tienes la versión adaptada como **Full Stack Developer**, incluyendo las tecnologías mencionadas en tu currículum y en formato **Markdown** para tu **README.md** en GitHub:
-
-```markdown
 # ¡Hola! 👋 Soy Antonio Zurano Blázquez
 
 Soy un **Desarrollador Full Stack** con experiencia en el desarrollo de aplicaciones web tanto en el **frontend** como en el **backend**. Mi enfoque está en la creación de soluciones escalables, optimizadas y de alto rendimiento utilizando una amplia gama de tecnologías modernas.
