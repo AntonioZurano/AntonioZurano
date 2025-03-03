@@ -21,12 +21,11 @@ Soy un **Desarrollador Full Stack** con experiencia en el desarrollo de aplicaci
 - **Metodologías ágiles** (como Scrum) para mantener un flujo de trabajo eficiente y en equipo.
 
 ## Lo que hago:
-Me apasiona la creación de aplicaciones web **escalables**, optimizadas y fáciles de usar. Trabajo tanto en el diseño de interfaces **frontend** como en el desarrollo de soluciones **backend**, asegurando que los proyectos sean rápidos, confiables y sostenibles. Actualmente, estoy perfeccionando mis habilidades en tecnologías como **Python** y **Django** mientras continúo mi formación en el **Máster en Desarrollo Web Full Stack** y **Blockchain**.
+Me apasiona la creación de aplicaciones web **escalables**, optimizadas y fáciles de usar. Trabajo tanto en el diseño de interfaces **frontend** como en el desarrollo de soluciones **backend**, asegurando que los proyectos sean rápidos, confiables y sostenibles. Actualmente, estoy perfeccionando mis habilidades en tecnologías como **Python** y **Django** mientras continúo mi formación en el [**Máster en Desarrollo Web Full Stack** y **Blockchain**.](https://www.conquerblocks.com/master-desarrollo-web-full-stack) 
 
 Siempre estoy aprendiendo nuevas tecnologías y metodologías para mejorar mis proyectos y brindar la mejor experiencia de usuario.
 
 ¡Conectemos y sigamos creando juntos! 🚀
-
 ---
 
 ## Especialidades preferidas
