@@ -1,20 +1,37 @@
-# ¡Hola! 👋 Soy Antonio Zurano Blázquez  
+Aquí tienes la versión adaptada como **Full Stack Developer**, incluyendo las tecnologías mencionadas en tu currículum y en formato **Markdown** para tu **README.md** en GitHub:
 
-Soy un **desarrollador backend** con experiencia en **Node.js, TypeScript y bases de datos SQL/NoSQL**, apasionado por la construcción de aplicaciones web escalables y optimizadas. Me interesa la arquitectura de software, el desarrollo backend eficiente y la implementación de soluciones con **Docker y Kubernetes**.  
+```markdown
+# ¡Hola! 👋 Soy Antonio Zurano Blázquez
 
-Actualmente, sigo perfeccionando mis habilidades en **Python y Django**, mientras continúo con mi formación en el **[Master en Desarrollo Web Full Stack y Blockchain](https://www.conquerblocks.com/master-desarrollo-web-full-stack).**.  
+Soy un **Desarrollador Full Stack** con experiencia en el desarrollo de aplicaciones web tanto en el **frontend** como en el **backend**. Mi enfoque está en la creación de soluciones escalables, optimizadas y de alto rendimiento utilizando una amplia gama de tecnologías modernas.
 
-## 🚀 Tecnologías y herramientas  
+## Tecnologías que manejo:
 
-- **Lenguajes y Frameworks:** `Node.js`, `TypeScript`, `Python`, `Django`  
-- **Bases de Datos:** `PostgreSQL`, `MariaDB`, `MongoDB`, `ElasticSearch`  
-- **DevOps:** `Docker`, `Kubernetes`, `CI/CD` (`GitHub Actions`, `Jenkins`)  
-- **Otros:** `Linux`, `Git`, `Plesk`, `Selenium`  
+### **Frontend:**
+- **HTML5** y **CSS3** para la creación de interfaces atractivas y accesibles.
+- **JavaScript** para desarrollar aplicaciones dinámicas e interactivas.
+- **React** y **Vue.js** para crear interfaces de usuario eficientes y reutilizables.
+- **WordPress** y **Elementor** para desarrollar sitios web personalizados.
 
-💡 Me motiva la resolución de problemas y el aprendizaje continuo, siempre buscando mejorar el rendimiento y la escalabilidad de los sistemas en los que trabajo.  
+### **Backend:**
+- **Node.js** y **Express.js** para crear APIs rápidas y escalables.
+- **Python** y **Django** para el desarrollo de aplicaciones web con un enfoque robusto en el backend.
+- **SQL Server** y **MySQL** para gestionar bases de datos, optimizando consultas y relaciones.
+- **Docker** para la creación y gestión de contenedores y despliegue de aplicaciones.
 
-📌 **Estoy abierto a nuevas oportunidades y colaboraciones.**  
-Si quieres hablar sobre tecnología o explorar nuevos proyectos, ¡conectemos!  
+### **Otros:**
+- **Testing de interfaces** para asegurar la calidad y optimización de la experiencia de usuario (UX).
+- **Metodologías ágiles** (como Scrum) para mantener un flujo de trabajo eficiente y en equipo.
+
+## Lo que hago:
+Me apasiona la creación de aplicaciones web **escalables**, optimizadas y fáciles de usar. Trabajo tanto en el diseño de interfaces **frontend** como en el desarrollo de soluciones **backend**, asegurando que los proyectos sean rápidos, confiables y sostenibles. Actualmente, estoy perfeccionando mis habilidades en tecnologías como **Python** y **Django** mientras continúo mi formación en el **Máster en Desarrollo Web Full Stack** y **Blockchain**.
+
+Siempre estoy aprendiendo nuevas tecnologías y metodologías para mejorar mis proyectos y brindar la mejor experiencia de usuario.
+
+¡Conectemos y sigamos creando juntos! 🚀
+```
+
+Este texto está adaptado para resaltar tu experiencia como **Full Stack Developer**, destacando las tecnologías que manejas y tu enfoque en la creación de aplicaciones web tanto en el **frontend** como en el **backend**. 
 
 ---
 
