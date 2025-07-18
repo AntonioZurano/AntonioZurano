@@ -18,37 +18,39 @@
 
 ## 🧰 Stack Tecnológico
 
-## 🧰 Stack Tecnológico
-
 <div align="center">
 
 <!-- Fila 1 -->
 
 <img src="https://skillicons.dev/icons?i=javascript" height="40" />
+<img src="https://skillicons.dev/icons?i=vuejs" height="40" />
 <img src="https://skillicons.dev/icons?i=python" height="40" />
 <img src="https://skillicons.dev/icons?i=django" height="40" />
 <img src="https://skillicons.dev/icons?i=nodejs" height="40" />
 <img src="https://skillicons.dev/icons?i=react" height="40" />
-<img src="https://skillicons.dev/icons?i=nestjs" height="40" />
+
 
 <br/>
 
 <!-- Fila 2 -->
 <img src="https://skillicons.dev/icons?i=bootstrap" height="40" />
-<img src="https://skillicons.dev/icons?i=html" height="40" />
+<img src="https://skillicons.dev/icons?i=html5" height="40" />
+<img src="https://skillicons.dev/icons?i=css3" height="40" />
 <img src="https://skillicons.dev/icons?i=mysql" height="40" />
 <img src="https://skillicons.dev/icons?i=postgresql" height="40" />
 <img src="https://skillicons.dev/icons?i=mongodb" height="40" />
-<img src="https://skillicons.dev/icons?i=redis" height="40" />
-<img src="https://skillicons.dev/icons?i=docker" height="40" />
+
+
 
 <br/>
 
 <!-- Fila 3 -->
+<img src="https://skillicons.dev/icons?i=docker" height="40" />
 <img src="https://skillicons.dev/icons?i=kubernetes" height="40" />
 <img src="https://skillicons.dev/icons?i=azure" height="40" />
-<img src="https://skillicons.dev/icons?i=jenkins" height="40" />
 <img src="https://skillicons.dev/icons?i=github" height="40" />
+<img src="https://skillicons.dev/icons?i=git" height="40" />
+<img src="https://skillicons.dev/icons?i=linux" height="40
 
 
 </div>
