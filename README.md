@@ -1,6 +1,6 @@
 ## 👋 ¡Hola! Soy Antonio Zurano Blázquez
 
-![Antonio Zurano Banner](assets/images/antonio-zurano-banner.png)
+![Antonio Zurano Banner](assets/images/Banner_AntonioZurano.png)
 
 ## 👨‍💻 Sobre mí
 
