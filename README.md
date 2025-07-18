@@ -33,6 +33,7 @@
 <br/>
 
 <!-- Fila 2 -->
+
 <img src="https://skillicons.dev/icons?i=express" height="40" />
 <img src="https://skillicons.dev/icons?i=html" height="40" />
 <img src="https://skillicons.dev/icons?i=css" height="40" />
@@ -43,6 +44,7 @@
 <br/>
 
 <!-- Fila 3 -->
+
 <img src="https://skillicons.dev/icons?i=docker" height="40" />
 <img src="https://skillicons.dev/icons?i=kubernetes" height="40" />
 <img src="https://skillicons.dev/icons?i=azure" height="40" />
