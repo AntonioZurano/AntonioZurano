@@ -53,7 +53,8 @@
 </div>
 
 <br/>
----
+
+
 
 ## 🚀 Proyectos Destacados
 
@@ -97,10 +98,24 @@ Web profesional para una psicóloga independiente, con sistema de reservas onlin
 
 ## 📫 Contacto
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-AntonioZurano-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/antoniozurano/)
-[![GitHub](https://img.shields.io/badge/GitHub-AntonioZurano-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AntonioZurano)
-[![Email](https://img.shields.io/badge/info@antoniozurano.com-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:info@antoniozurano.com)
-[![Portfolio](https://img.shields.io/badge/Web%20Personal-antoniozurano.com-255E63?style=for-the-badge&logo=About.me&logoColor=white)](https://www.antoniozurano.com)
+<p align="center">
+  <a href="https://www.linkedin.com/in/antoniozurano/">
+    <img src="https://img.shields.io/badge/LinkedIn-AntonioZurano-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/AntonioZurano">
+    <img src="https://img.shields.io/badge/GitHub-AntonioZurano-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="mailto:info@antoniozurano.com">
+    <img src="https://img.shields.io/badge/info@antoniozurano.com-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.antoniozurano.com">
+    <img src="https://img.shields.io/badge/Web%20Personal-antoniozurano.com-255E63?style=for-the-badge&logo=About.me&logoColor=white" />
+  </a>
+</p>
+
 
 ---
 
