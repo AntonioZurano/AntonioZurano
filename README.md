@@ -94,7 +94,7 @@ Web profesional para una psicóloga independiente, con sistema de reservas onlin
 
 ## 📄 Descarga mi CV
 
-[![CV](https://img.shields.io/badge/Currículum-Antonio%20Zurano-0A66C2?style=for-the-badge&logo=readthedocs&logoColor=white)](assets/cv/CV_AntonioZurano.pdf)
+[![CV](https://img.shields.io/badge/Currículum-Antonio%20Zurano-0A66C2?style=for-the-badge&logo=readthedocs&logoColor=white)](assets/cv/Cv_Antonio_Zurano.pdf)
 
 ---
 
