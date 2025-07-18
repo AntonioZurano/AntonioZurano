@@ -33,14 +33,12 @@
 <br/>
 
 <!-- Fila 2 -->
-<img src="https://skillicons.dev/icons?i=bootstrap" height="40" />
-<img src="https://skillicons.dev/icons?i=html5" height="40" />
-<img src="https://skillicons.dev/icons?i=css3" height="40" />
+<img src="https://skillicons.dev/icons?i=express" height="40" />
+<img src="https://skillicons.dev/icons?i=html" height="40" />
+<img src="https://skillicons.dev/icons?i=css" height="40" />
 <img src="https://skillicons.dev/icons?i=mysql" height="40" />
 <img src="https://skillicons.dev/icons?i=postgresql" height="40" />
 <img src="https://skillicons.dev/icons?i=mongodb" height="40" />
-
-
 
 <br/>
 
@@ -50,11 +48,11 @@
 <img src="https://skillicons.dev/icons?i=azure" height="40" />
 <img src="https://skillicons.dev/icons?i=github" height="40" />
 <img src="https://skillicons.dev/icons?i=git" height="40" />
-<img src="https://skillicons.dev/icons?i=linux" height="40
-
+<img src="https://skillicons.dev/icons?i=linux" height="40" />
 
 </div>
 
+<br/>
 ---
 
 ## 🚀 Proyectos Destacados
