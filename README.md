@@ -8,7 +8,7 @@
 
 🛠️ Experiencia con **Node.js**, **Express.js**, **Python**, **Django**, **React**, y **Vue.js**, desarrollando APIs, interfaces atractivas y sistemas robustos.
 
-🧱 Trabajo con bases de datos como **MySQL**, **SQL Server** y **MongoDB**, usando contenedores **Docker** para desplegar entornos aislados y productivos.
+🧱 Trabajo con bases de datos como **MySQL**, **SQL Server** y **MongoDB**, **SQLite** usando contenedores **Docker** para desplegar entornos aislados y productivos.
 
 🎯 Me enfoco en la mejora continua, la formación constante y la entrega de productos con impacto real en los usuarios.
 
