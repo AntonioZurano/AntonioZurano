@@ -84,14 +84,6 @@ Catálogo online de trofeos y medallas, con opción de descarga de catálogos PD
 
 ---
 
-### [Esther Moreno Psicóloga](https://www.esthermorenopsicologia.com)
-
-Web profesional para una psicóloga independiente, con sistema de reservas online y diseño SEO optimizado.
-
-> **Stack:** WordPress, HTML, CSS, JS, plugins
-
----
-
 ## 📄 Descarga mi CV
 
 [![CV](https://img.shields.io/badge/Currículum-Antonio%20Zurano-0A66C2?style=for-the-badge&logo=readthedocs&logoColor=white)](assets/cv/Cv_Antonio_Zurano.pdf)
