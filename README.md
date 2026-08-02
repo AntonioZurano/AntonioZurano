@@ -20,43 +20,35 @@
 
 <div align="center">
 
-<!-- Fila 1 -->
+  <!-- Fila 1: Frontend -->
 
-<img src="https://skillicons.dev/icons?i=js" height="40" />
-<img src="https://skillicons.dev/icons?i=ts" height="40" />
-<img src="https://skillicons.dev/icons?i=astro" height="40" />
-<img src="https://skillicons.dev/icons?i=react" height="40" />
-<img src="https://skillicons.dev/icons?i=vue" height="40" />
-<img src="https://skillicons.dev/icons?i=html" height="40" />
+  <p align="center">
+    <img src="https://skillicons.dev/icons?i=js" width="40" height="40" alt="JavaScript" title="JavaScript" /><img src="https://skillicons.dev/icons?i=ts" width="40" height="40" alt="TypeScript" title="TypeScript" /><img src="https://skillicons.dev/icons?i=astro" width="40" height="40" alt="Astro" title="Astro" /><img src="https://skillicons.dev/icons?i=react" width="40" height="40" alt="React" title="React" /><img src="https://skillicons.dev/icons?i=vue" width="40" height="40" alt="Vue.js" title="Vue.js" /><img src="https://skillicons.dev/icons?i=html" width="40" height="40" alt="HTML5" title="HTML5" />
+  </p>
 
-<br/>
+  <!-- Fila 2: Backend -->
 
-<!-- Fila 2 -->
+  <p align="center">
+    <img src="https://skillicons.dev/icons?i=css" width="40" height="40" alt="CSS3" title="CSS3" /><img src="https://skillicons.dev/icons?i=nodejs" width="40" height="40" alt="Node.js" title="Node.js" /><img src="https://skillicons.dev/icons?i=express" width="40" height="40" alt="Express.js" title="Express.js" /><img src="https://skillicons.dev/icons?i=python" width="40" height="40" alt="Python" title="Python" /><img src="https://skillicons.dev/icons?i=django" width="40" height="40" alt="Django" title="Django" /><img src="https://skillicons.dev/icons?i=sqlite" width="40" height="40" alt="SQLite" title="SQLite" />
+  </p>
 
-<img src="https://skillicons.dev/icons?i=css" height="40" />
-<img src="https://skillicons.dev/icons?i=nodejs" height="40" />
-<img src="https://skillicons.dev/icons?i=express" height="40" />
-<img src="https://skillicons.dev/icons?i=python" height="40" />
-<img src="https://skillicons.dev/icons?i=django" height="40" />
-<img src="https://skillicons.dev/icons?i=sqlite" height="40" />
+  <!-- Fila 3: Bases de datos e infraestructura -->
 
-<br/>
+  <p align="center">
+    <img src="https://skillicons.dev/icons?i=mysql" width="40" height="40" alt="MySQL" title="MySQL" /><img src="https://skillicons.dev/icons?i=postgres" width="40" height="40" alt="PostgreSQL" title="PostgreSQL" /><img src="https://skillicons.dev/icons?i=mongodb" width="40" height="40" alt="MongoDB" title="MongoDB" /><img src="https://skillicons.dev/icons?i=docker" width="40" height="40" alt="Docker" title="Docker" /><img src="https://skillicons.dev/icons?i=azure" width="40" height="40" alt="Microsoft Azure" title="Microsoft Azure" /><img src="https://skillicons.dev/icons?i=linux" width="40" height="40" alt="Linux" title="Linux" />
+  </p>
 
-<!-- Fila 3 -->
+  <!-- Fila 4: Control de versiones -->
 
-<img src="https://skillicons.dev/icons?i=mysql" height="40" />
-<img src="https://skillicons.dev/icons?i=postgres" height="40" />
-<img src="https://skillicons.dev/icons?i=mongodb" height="40" />
-<img src="https://skillicons.dev/icons?i=docker" height="40" />
-<img src="https://skillicons.dev/icons?i=azure" height="40" />
-<img src="https://skillicons.dev/icons?i=linux" height="40" />
+  <p align="center">
+    <img src="https://skillicons.dev/icons?i=git" width="40" height="40" alt="Git" title="Git" /><img src="https://skillicons.dev/icons?i=github" width="40" height="40" alt="GitHub" title="GitHub" />
+  </p>
 
-<br/>
+  <!-- Fila 5: Herramientas de inteligencia artificial -->
 
-<!-- Fila 4 -->
-
-<img src="https://skillicons.dev/icons?i=git" height="40" />
-<img src="https://skillicons.dev/icons?i=github" height="40" />
+  <p align="center">
+    <img src="https://unpkg.com/@lobehub/icons-static-svg@latest/icons/openai.svg" width="40" height="40" alt="ChatGPT" title="ChatGPT" /><img src="https://unpkg.com/@lobehub/icons-static-svg@latest/icons/cursor.svg" width="40" height="40" alt="Cursor" title="Cursor" /><img src="https://unpkg.com/@lobehub/icons-static-svg@latest/icons/notebooklm.svg" width="40" height="40" alt="Google NotebookLM" title="Google NotebookLM" />
+  </p>
 
 </div>
 
