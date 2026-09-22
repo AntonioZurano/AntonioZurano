@@ -4,7 +4,7 @@
 
 ## 👨‍💻 Sobre mí
 
-💻 Desarrollo aplicaciones backend y herramientas de automatización con Python. Me centro en convertir procesos manuales y necesidades empresariales en soluciones mantenibles, probadas y desplegables
+💻 Desarrollo aplicaciones backend y herramientas de automatización con Python. Me centro en convertir procesos manuales y necesidades empresariales en soluciones mantenibles, probadas y desplegables.
 
 🛠️ Experiencia con **Python**, **Django**, **JavaScript**, **TypeScript**, **Astro**, **Node.js**, **Express.js**,   **React** y **Vue.js**, desarrollando APIs, aplicaciones empresariales e interfaces orientadas a resolver problemas reales.
 
