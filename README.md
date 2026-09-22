@@ -140,13 +140,6 @@ El proyecto integra una interfaz desarrollada con React, un backend basado en No
 
 ---
 
-### [🌐 Portfolio Website](https://dev.antoniozurano.com)
-
-Sitio web personal donde muestro mi trayectoria, habilidades y proyectos de desarrollo. Diseñado desde cero y alojado en un servidor propio.
-
-> **Stack:** HTML, CSS, JavaScript, Git, VPS
-
----
 
 ### [🔥 Garbi Contraincendios](https://www.garbicontraincendios.es)
 
