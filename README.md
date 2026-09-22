@@ -29,7 +29,7 @@
   <!-- Fila 2: Backend -->
 
   <p align="center">
-    <img src="https://skillicons.dev/icons?i=css" width="40" height="40" alt="CSS3" title="CSS3" /><img src="https://skillicons.dev/icons?i=nodejs" width="40" height="40" alt="Node.js" title="Node.js" /><img src="https://skillicons.dev/icons?i=express" width="40" height="40" alt="Express.js" title="Express.js" /><img src="https://skillicons.dev/icons?i=python" width="40" height="40" alt="Python" title="Python" /><img src="https://skillicons.dev/icons?i=django" width="40" height="40" alt="Django" title="Django" /><img src="https://skillicons.dev/icons?i=sqlite" width="40" height="40" alt="SQLite" title="SQLite" />
+    <img src="https://skillicons.dev/icons?i=python" width="40" height="40" alt="Python" title="Python" /><img src="https://skillicons.dev/icons?i=django" width="40" height="40" alt="Django" title="Django" /><img src="https://skillicons.dev/icons?i=css" width="40" height="40" alt="CSS3" title="CSS3" /><img src="https://skillicons.dev/icons?i=nodejs" width="40" height="40" alt="Node.js" title="Node.js" /><img src="https://skillicons.dev/icons?i=express" width="40" height="40" alt="Express.js" title="Express.js" /><img src="https://skillicons.dev/icons?i=sqlite" width="40" height="40" alt="SQLite" title="SQLite" />
   </p>
 
   <!-- Fila 3: Bases de datos e infraestructura -->
