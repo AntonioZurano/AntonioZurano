@@ -4,9 +4,9 @@
 
 ## 👨‍💻 Sobre mí
 
-💻 Desarrollador **Full Stack** apasionado por crear soluciones web escalables, optimizadas y de alto rendimiento. Trabajo tanto en el frontend como en el backend, aplicando buenas prácticas de desarrollo y herramientas modernas.
+💻 Desarrollo aplicaciones backend y herramientas de automatización con Python. Me centro en convertir procesos manuales y necesidades empresariales en soluciones mantenibles, probadas y desplegables
 
-🛠️ Experiencia con **JavaScript**, **TypeScript**, **Astro**, **Node.js**, **Express.js**, **Python**, **Django**, **React** y **Vue.js**, desarrollando APIs, aplicaciones empresariales e interfaces orientadas a resolver problemas reales.
+🛠️ Experiencia con **Python**, **Django**, **JavaScript**, **TypeScript**, **Astro**, **Node.js**, **Express.js**,   **React** y **Vue.js**, desarrollando APIs, aplicaciones empresariales e interfaces orientadas a resolver problemas reales.
 
 🧱 Trabajo con bases de datos como **MySQL**, **PostgreSQL**, **SQL Server**, **MongoDB** y **SQLite**. También utilizo **Docker**, Git y servidores Linux/Windows para preparar entornos de desarrollo y producción.
 
