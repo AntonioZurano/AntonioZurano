@@ -189,9 +189,6 @@ También realizo su mantenimiento técnico, actualizaciones, alojamiento, copias
   <a href="mailto:info@antoniozurano.com">
     <img src="https://img.shields.io/badge/info@antoniozurano.com-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://www.antoniozurano.com">
-    <img src="https://img.shields.io/badge/Web%20Personal-antoniozurano.com-255E63?style=for-the-badge&logo=About.me&logoColor=white" />
-  </a>
 </p>
 
 ---
