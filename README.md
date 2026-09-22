@@ -8,7 +8,7 @@
 
 🛠️ Experiencia con **Python**, **Django**, **JavaScript**, **TypeScript**, **Astro**, **Node.js**, **Express.js**,   **React** y **Vue.js**, desarrollando APIs, aplicaciones empresariales e interfaces orientadas a resolver problemas reales.
 
-🧱 Trabajo con bases de datos como **MySQL**, **PostgreSQL**, **SQL Server**, **MongoDB** y **SQLite**. También utilizo **Docker**, Git y servidores Linux/Windows para preparar entornos de desarrollo y producción.
+🧱 Trabajo con bases de datos como **MySQL**, **PostgreSQL**, **SQL Server**, **MongoDB** y **SQLite**. También utilizo **Docker**, **Git**, **GitHub** y servidores Linux/Windows para preparar entornos de desarrollo y producción.
 
 🎯 Me enfoco en la mejora continua, la formación constante y la entrega de productos con impacto real en los usuarios.
 
@@ -46,15 +46,21 @@
 
   <!-- Fila 5: Herramientas de inteligencia artificial -->
 
-  <p align="center">
-    <img src="https://unpkg.com/@lobehub/icons-static-svg@latest/icons/openai.svg" width="40" height="40" alt="ChatGPT" title="ChatGPT" /><img src="https://unpkg.com/@lobehub/icons-static-svg@latest/icons/cursor.svg" width="40" height="40" alt="Cursor" title="Cursor" /><img src="https://unpkg.com/@lobehub/icons-static-svg@latest/icons/notebooklm.svg" width="40" height="40" alt="Google NotebookLM" title="Google NotebookLM" />
-  </p>
-
 </div>
 
 <br/>
 
 ## 🚀 Proyectos Destacados
+
+### [📄 SeparadorNominas](https://github.com/AntonioZurano/SeparadorNominas)
+
+Aplicación de escritorio para Windows que permite separar, reconocer, agrupar y clasificar las páginas de un PDF de nóminas.
+
+Todo el procesamiento se realiza localmente, sin subir documentos ni datos personales a servicios externos. El proyecto incluye pruebas, documentación técnica, control de versiones, gestión de errores y un flujo Git basado en ramas de desarrollo, funcionalidades y correcciones.
+
+> **Stack:** Python, Tkinter, pypdf, pytest, Git, PowerShell, Windows
+
+---
 
 ### [💰 CashFlow Control — Caso de estudio](https://github.com/AntonioZurano/cashflow-control-case-study)
 
@@ -65,16 +71,6 @@ He desarrollado tanto el frontend como el backend, además de la estructura de l
 El código fuente se mantiene en un repositorio privado por tratarse de una herramienta interna. El repositorio público documenta la arquitectura, las decisiones técnicas y el trabajo realizado utilizando exclusivamente información ficticia.
 
 > **Stack:** Node.js, Express, SQLite, JavaScript, HTML, CSS, Chart.js, Git, PowerShell
-
----
-
-### [📄 SeparadorNominas](https://github.com/AntonioZurano/SeparadorNominas)
-
-Aplicación de escritorio para Windows que permite separar, reconocer, agrupar y clasificar las páginas de un PDF de nóminas.
-
-Todo el procesamiento se realiza localmente, sin subir documentos ni datos personales a servicios externos. El proyecto incluye pruebas, documentación técnica, control de versiones, gestión de errores y un flujo Git basado en ramas de desarrollo, funcionalidades y correcciones.
-
-> **Stack:** Python, Tkinter, pypdf, pytest, Git, PowerShell, Windows
 
 ---
 
