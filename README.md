@@ -186,4 +186,4 @@ También realizo su mantenimiento técnico, actualizaciones, alojamiento, copias
 
 ---
 
-✨ ¡Estoy abierto a nuevas colaboraciones y proyectos! 🚀
+✨ Disponible para oportunidades remotas a jornada completa como desarrollador Python backend o de automatización 🚀
