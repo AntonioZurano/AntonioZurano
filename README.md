@@ -20,31 +20,73 @@
 
 <div align="center">
 
-  <!-- Fila 1: Frontend -->
+  <!-- Backend y automatización -->
 
-  <p align="center">
-    <img src="https://skillicons.dev/icons?i=js" width="40" height="40" alt="JavaScript" title="JavaScript" /><img src="https://skillicons.dev/icons?i=ts" width="40" height="40" alt="TypeScript" title="TypeScript" /><img src="https://skillicons.dev/icons?i=astro" width="40" height="40" alt="Astro" title="Astro" /><img src="https://skillicons.dev/icons?i=react" width="40" height="40" alt="React" title="React" /><img src="https://skillicons.dev/icons?i=vue" width="40" height="40" alt="Vue.js" title="Vue.js" /><img src="https://skillicons.dev/icons?i=html" width="40" height="40" alt="HTML5" title="HTML5" />
+  <h3>Backend y automatización</h3>
+
+  <p>
+    <img src="https://skillicons.dev/icons?i=python" width="40" height="40" alt="Python" title="Python" />
+    <img src="https://skillicons.dev/icons?i=fastapi" width="40" height="40" alt="FastAPI" title="FastAPI" />
+    <img src="https://skillicons.dev/icons?i=django" width="40" height="40" alt="Django" title="Django" />
+    <img src="https://skillicons.dev/icons?i=nodejs" width="40" height="40" alt="Node.js" title="Node.js" />
+    <img src="https://skillicons.dev/icons?i=express" width="40" height="40" alt="Express.js" title="Express.js" />
   </p>
 
-  <!-- Fila 2: Backend -->
+  <!-- Testing y calidad -->
 
-  <p align="center">
-    <img src="https://skillicons.dev/icons?i=python" width="40" height="40" alt="Python" title="Python" /><img src="https://skillicons.dev/icons?i=django" width="40" height="40" alt="Django" title="Django" /><img src="https://skillicons.dev/icons?i=css" width="40" height="40" alt="CSS3" title="CSS3" /><img src="https://skillicons.dev/icons?i=nodejs" width="40" height="40" alt="Node.js" title="Node.js" /><img src="https://skillicons.dev/icons?i=express" width="40" height="40" alt="Express.js" title="Express.js" /><img src="https://skillicons.dev/icons?i=sqlite" width="40" height="40" alt="SQLite" title="SQLite" />
+  <h3>Testing y calidad</h3>
+
+  <p>
+    <img src="https://img.shields.io/badge/pytest-0A9EDC?style=flat-square&logo=pytest&logoColor=white" height="28" alt="pytest" title="pytest" />
+    <img src="https://img.shields.io/badge/Ruff-D7FF64?style=flat-square&logo=ruff&logoColor=261230" height="28" alt="Ruff" title="Ruff" />
+    <img src="https://img.shields.io/badge/mypy-2A6DB2?style=flat-square&logo=python&logoColor=white" height="28" alt="mypy" title="mypy" />
+    <img src="https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white" height="28" alt="Playwright" title="Playwright" />
+    <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" height="28" alt="GitHub Actions" title="GitHub Actions" />
   </p>
 
-  <!-- Fila 3: Bases de datos e infraestructura -->
+  <!-- Bases de datos -->
 
-  <p align="center">
-    <img src="https://skillicons.dev/icons?i=mysql" width="40" height="40" alt="MySQL" title="MySQL" /><img src="https://skillicons.dev/icons?i=postgres" width="40" height="40" alt="PostgreSQL" title="PostgreSQL" /><img src="https://skillicons.dev/icons?i=mongodb" width="40" height="40" alt="MongoDB" title="MongoDB" /><img src="https://skillicons.dev/icons?i=docker" width="40" height="40" alt="Docker" title="Docker" /><img src="https://skillicons.dev/icons?i=azure" width="40" height="40" alt="Microsoft Azure" title="Microsoft Azure" /><img src="https://skillicons.dev/icons?i=linux" width="40" height="40" alt="Linux" title="Linux" />
+  <h3>Bases de datos</h3>
+
+  <p>
+    <img src="https://skillicons.dev/icons?i=postgres" width="40" height="40" alt="PostgreSQL" title="PostgreSQL" />
+    <img src="https://skillicons.dev/icons?i=sqlite" width="40" height="40" alt="SQLite" title="SQLite" />
+    <img src="https://skillicons.dev/icons?i=mysql" width="40" height="40" alt="MySQL" title="MySQL" />
+    <img src="https://skillicons.dev/icons?i=mongodb" width="40" height="40" alt="MongoDB" title="MongoDB" />
   </p>
 
-  <!-- Fila 4: Control de versiones -->
+  <!-- Infraestructura -->
 
-  <p align="center">
-    <img src="https://skillicons.dev/icons?i=git" width="40" height="40" alt="Git" title="Git" /><img src="https://skillicons.dev/icons?i=github" width="40" height="40" alt="GitHub" title="GitHub" />
+  <h3>Infraestructura</h3>
+
+  <p>
+    <img src="https://skillicons.dev/icons?i=docker" width="40" height="40" alt="Docker" title="Docker" />
+    <img src="https://skillicons.dev/icons?i=linux" width="40" height="40" alt="Linux" title="Linux" />
+    <img src="https://skillicons.dev/icons?i=azure" width="40" height="40" alt="Microsoft Azure" title="Microsoft Azure" />
+    <img src="https://img.shields.io/badge/Plesk-52BBE6?style=flat-square&logo=plesk&logoColor=white" height="28" alt="Plesk" title="Plesk" />
+    <img src="https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white" height="28" alt="Cloudflare" title="Cloudflare" />
   </p>
 
-  <!-- Fila 5: Herramientas de inteligencia artificial -->
+  <!-- Frontend -->
+
+  <h3>Frontend</h3>
+
+  <p>
+    <img src="https://skillicons.dev/icons?i=ts" width="40" height="40" alt="TypeScript" title="TypeScript" />
+    <img src="https://skillicons.dev/icons?i=js" width="40" height="40" alt="JavaScript" title="JavaScript" />
+    <img src="https://skillicons.dev/icons?i=astro" width="40" height="40" alt="Astro" title="Astro" />
+    <img src="https://skillicons.dev/icons?i=react" width="40" height="40" alt="React" title="React" />
+    <img src="https://skillicons.dev/icons?i=vue" width="40" height="40" alt="Vue.js" title="Vue.js" />
+  </p>
+
+  <!-- Control de versiones -->
+
+  <h3>Control de versiones</h3>
+
+  <p>
+    <img src="https://skillicons.dev/icons?i=git" width="40" height="40" alt="Git" title="Git" />
+    <img src="https://skillicons.dev/icons?i=github" width="40" height="40" alt="GitHub" title="GitHub" />
+  </p>
 
 </div>
 
