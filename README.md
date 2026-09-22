@@ -12,7 +12,7 @@
 
 🎯 Me enfoco en la mejora continua, la formación constante y la entrega de productos con impacto real en los usuarios.
 
-📚 Actualmente, me encuentro cursando el [Máster en Desarrollo Web Full Stack y Blockchain](https://www.conquerblocks.com/master-desarrollo-web-full-stack).
+🚧 Actualmente estoy desarrollando RetailFlow Backend, una API para la gestión de stock y movimientos de una estación de servicio ficticia, con importación CSV, FastAPI, SQLAlchemy, pytest y Docker. Proyecto en desarrollo mediante issues, ramas y pull requests.
 
 ---
 
